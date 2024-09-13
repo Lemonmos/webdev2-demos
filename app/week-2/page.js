@@ -10,7 +10,7 @@ export default function page(){
             <Heading/>
             <Heading/>
             <Heading/>
-            <p>week2</p>
+            <p>week2 new edition</p>
             <p>The sum of a + b is {a + b}.</p>
             <Link href="/">go to homepage</Link>
         </main>
